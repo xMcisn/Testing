@@ -238,19 +238,19 @@ int main()
 {
     HashTable Test1;
 
-    cout << "Result: " << Test1.insertNode(13, 1, "TEST 1") << endl;
-    cout << "Result: " << Test1.insertNode(13, 2, "TEST 2") << endl;
-    cout << "Result: " << Test1.insertNode(13, 3, "TEST 3") << endl;
-    cout << "Result: " << Test1.insertNode(12, 4, "TEST 4") << endl;
-    cout << "Result: " << Test1.insertNode(14, 5, "TEST 5") << endl;
-    cout << "Result: " << Test1.insertNode(13, 6, "TEST 6") << endl;
-    cout << "Result: " << Test1.insertNode(15, 7, "TEST 7") << endl;
-    cout << "Result: " << Test1.insertNode(20, 8, "TEST 8") << endl;
-    cout << "Result: " << Test1.insertNode(17, 9, "TEST 9") << endl;
-    cout << "Result: " << Test1.insertNode(16, 10, "TEST 10") << endl;
-    cout << "Result: " << Test1.insertNode(13, 11, "TEST 11") << endl;
-    cout << "Result: " << Test1.insertNode(20, 12, "TEST 12") << endl;
-    cout << "Result: " << Test1.insertNode(13, 13, "TEST 13") << endl;
+    cout << "Result: " << Test1.insertNode(13, 1, "REST 1") << endl;
+    cout << "Result: " << Test1.insertNode(13, 2, "REST 2") << endl;
+    cout << "Result: " << Test1.insertNode(13, 3, "REST 3") << endl;
+    cout << "Result: " << Test1.insertNode(12, 4, "REST 4") << endl;
+    cout << "Result: " << Test1.insertNode(14, 5, "REST 5") << endl;
+    cout << "Result: " << Test1.insertNode(13, 6, "REST 6") << endl;
+    cout << "Result: " << Test1.insertNode(15, 7, "REST 7") << endl;
+    cout << "Result: " << Test1.insertNode(20, 8, "REST 8") << endl;
+    cout << "Result: " << Test1.insertNode(17, 9, "REST 9") << endl;
+    cout << "Result: " << Test1.insertNode(16, 10, "REST 10") << endl;
+    cout << "Result: " << Test1.insertNode(13, 11, "REST 11") << endl;
+    cout << "Result: " << Test1.insertNode(20, 12, "REST 12") << endl;
+    cout << "Result: " << Test1.insertNode(13, 13, "REST 13") << endl;
 
     Test1.printTable();
 
